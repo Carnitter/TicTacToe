@@ -1,2 +1,1 @@
-c:\users\jairo\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
-C:\Users\jairo\Documents\GitHub\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\justin\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
